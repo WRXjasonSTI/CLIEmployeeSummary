@@ -2,11 +2,11 @@
 # Employee Summary Page Generator
 
 The following application is a Command-Line-Interface product that generates a visually attractive HTML page after collecting information from the user. This app is to demonstrate modularization of methods, as well as to display our handle on npm packages.  
-[inputSection](./input.PNG)
-[desiredOutput](./output.PNG)
+![inputSection](./input.PNG)
+![desiredOutput](./output.PNG)
 
 ## License
-![GitHub](https://img.shields.io/github/license/WRXjasonSTI/Employee Summary Page Generator)  
+![GitHub](https://img.shields.io/github/license/WRXjasonSTI/CLIEmployeeSummary)  
 MIT License 
 
 ## Table of Contents
